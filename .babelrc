@@ -1,0 +1,5 @@
+//This tells Babel to use packages @babel/preset-env and @babel/preset-react that we installed earlier to compile our code
+
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}

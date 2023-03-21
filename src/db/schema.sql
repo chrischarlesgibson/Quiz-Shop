@@ -1,6 +1,6 @@
-DROP DATABASE IF EXISTS quiz_emporium_db;
+DROP DATABASE IF EXISTS quiz_shop_db;
 
-CREATE DATABASE quiz_emporium_db;
+CREATE DATABASE quiz_shop_db;
 
 
 DROP TABLE IF EXISTS answers;
